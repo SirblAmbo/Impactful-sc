@@ -23,7 +23,7 @@ This project uses Yarn (Fabric) mappings, not official Minecraft mappings. Porti
 
 ## Using this code
 
-Do whatever you want with it: port it, break it, add stuff you'd like to it. If you use some parts of my project in yours, please credit me, either by @SirblAmbo, or attach my YouTube, or Modrinth pages.
+Do whatever you want with it: port it, break it, add stuff you'd like to it. If you use some parts of my project in your own, please credit me, either by @SirblAmbo, or attach my YouTube, or Modrinth pages.
 
 Released under the [MIT License](LICENSE).
 
