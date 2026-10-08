@@ -1,6 +1,7 @@
 # Impactful
 
-**Maces made fancy.** A client-side Fabric mod for Minecraft 1.21.11 that adds customizable impact frames to mace kills, with a PvP tracker and dynamic fight music.
+**Maces made fancy.** 
+A client-side Fabric mod for Minecraft 1.21.11 that adds customizable impact frames to mace kills (or any kills), with a live Battle Tracker, Battle Scoring after fight, and a live fight music system.
 
 > **Photosensitivity warning:** this mod contains flashing lights and visual effects. If you have epilepsy or any photosensitive condition, please use caution or avoid this all together.
 
