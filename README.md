@@ -29,5 +29,5 @@ Released under the [MIT License](LICENSE).
 
 ## Contributors
 
-< SkI_     <-- Mapping and mod planning
+< SkI_     <-- Mapping and mod planning         
 dashinex <-- Helped make the 1.21.11 version >
